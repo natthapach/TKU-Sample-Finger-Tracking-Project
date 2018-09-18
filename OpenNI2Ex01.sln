@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample_OpenCV", "Sample_Ope
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sample_ONI_NiTE_OGL_OCV_01", "Sample_ONI_NiTE_OGL_OCV_01\Sample_ONI_NiTE_OGL_OCV_01.vcxproj", "{EECC116F-629D-4908-8B5A-B532B68E8DBF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FingerTracking01", "FingerTracking01\FingerTracking01.vcxproj", "{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{EECC116F-629D-4908-8B5A-B532B68E8DBF}.Release|x64.Build.0 = Release|x64
 		{EECC116F-629D-4908-8B5A-B532B68E8DBF}.Release|x86.ActiveCfg = Release|Win32
 		{EECC116F-629D-4908-8B5A-B532B68E8DBF}.Release|x86.Build.0 = Release|Win32
+		{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}.Debug|x64.ActiveCfg = Debug|x64
+		{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}.Debug|x64.Build.0 = Debug|x64
+		{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}.Debug|x86.ActiveCfg = Debug|Win32
+		{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}.Debug|x86.Build.0 = Debug|Win32
+		{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}.Release|x64.ActiveCfg = Release|x64
+		{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}.Release|x64.Build.0 = Release|x64
+		{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}.Release|x86.ActiveCfg = Release|Win32
+		{17DD4AAA-7DCF-4B18-BF40-9FB4196C5A9A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
